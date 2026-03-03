@@ -65,6 +65,7 @@ Then navigate to `http://localhost:8000` in your browser.
 - **Clean Architecture**: Services (`clause_extractor.py`, `risk_analyzer.py`), utilities (`file_parser.py`), and routing (`contract_routes.py`) are strictly separated.
 - **Vanilla JS**: The frontend avoids heavy frameworks (React/Vue) to meet the requirement strictly relying on ES6 modularity and lightweight dom updates,
 
+- while delivering a highly polished aesthetic.
 
 
 
@@ -76,5 +77,5 @@ Then navigate to `http://localhost:8000` in your browser.
 
 
 
-- while delivering a highly polished aesthetic.
+
 
