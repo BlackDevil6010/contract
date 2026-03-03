@@ -63,4 +63,18 @@ Then navigate to `http://localhost:8000` in your browser.
 - **App Factory Pattern**: The Flask app uses the application factory pattern (`create_app`) for better testing and modularity.
 - **Singleton Model Loading**: The `RiskAnalyzer` preloads the BERT model at startup to avoid reloading it on every request, which is crucial for reasonable API latency.
 - **Clean Architecture**: Services (`clause_extractor.py`, `risk_analyzer.py`), utilities (`file_parser.py`), and routing (`contract_routes.py`) are strictly separated.
-- **Vanilla JS**: The frontend avoids heavy frameworks (React/Vue) to meet the requirement strictly relying on ES6 modularity and lightweight dom updates, while delivering a highly polished aesthetic.
+- **Vanilla JS**: The frontend avoids heavy frameworks (React/Vue) to meet the requirement strictly relying on ES6 modularity and lightweight dom updates,
+
+
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87daf594-3a12-4672-912b-a85c7731d886" />
+
+
+
+
+
+
+
+- while delivering a highly polished aesthetic.
+
