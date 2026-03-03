@@ -1,3 +1,5 @@
+                                                                                    ##MY-LogiC
+
 # Contract Clause Extraction & Risk Flags System
 
 A production-grade system for analyzing legal contracts for risk clauses using Legal BERT.
@@ -76,6 +78,7 @@ Then navigate to `http://localhost:8000` in your browser.
 
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87daf594-3a12-4672-912b-a85c7731d886" />
+
 
 
 
