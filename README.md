@@ -69,11 +69,13 @@ Then navigate to `http://localhost:8000` in your browser.
 
 ## OUTPUT ScreenShot:
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87daf594-3a12-4672-912b-a85c7731d886" />
+<img width="1910" height="986" alt="image" src="https://github.com/user-attachments/assets/2c7be045-81f8-4336-9b73-e5e45edf3046" />
 
 
 <img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/608bfa2b-3c33-4fa4-b142-da2149e0e4e3" />
 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87daf594-3a12-4672-912b-a85c7731d886" />
 
 
 
